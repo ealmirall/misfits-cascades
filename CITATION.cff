@@ -10,6 +10,8 @@ version: v_1_0_0
 date-released: "2026-06-05"
 license: "MIT"
 repository-code: "https://github.com/ealmirall/misfits-cascades"
+url: "https://doi.org/10.5281/zenodo.20569058"
+doi: "10.5281/zenodo.20569058"
 keywords:
   - agent-based model
   - complex contagion
