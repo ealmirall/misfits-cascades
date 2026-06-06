@@ -6,7 +6,6 @@ abstract: >-
   Digital Adoption Cascades: Network Reach, Threshold Heterogeneity, and
   Performance-Conditioned Complex Contagion in an Agent-Based Model of Firms."
   Implemented in Julia using Agents.jl and Graphs.jl.
-type: software-code
 version: "1.0.0"
 date-released: "2026-06-05"
 license: "MIT"
