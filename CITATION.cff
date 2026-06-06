@@ -28,15 +28,3 @@ authors:
   - family-names: "Cortés"
     given-names: "Ulises"
     affiliation: "Universitat Politècnica de Catalunya (UPC)"
-preferred-citation:
-  type: article
-  title: "When a Few Misfits Trigger Digital Adoption Cascades: Network Reach, Threshold Heterogeneity, and Performance-Conditioned Complex Contagion in an Agent-Based Model of Firms"
-  year: 2026
-  journal: "Journal of Artificial Societies and Social Simulation"
-  authors:
-    - family-names: "Almirall"
-      given-names: "Esteve"
-    - family-names: "Willmott"
-      given-names: "Steve"
-    - family-names: "Cortés"
-      given-names: "Ulises"
