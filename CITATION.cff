@@ -1,3 +1,4 @@
+```yaml
 cff-version: 1.2.0
 message: "If you use this model or its results, please cite both the software and the article."
 title: "Misfits-Cascades: an agent-based model of performance-conditioned digital adoption among firms"
@@ -10,8 +11,7 @@ type: software
 version: "1.0.0"
 date-released: "2026-06-05"
 license: MIT
-repository-code: "https://github.com/[ORG-OR-USER]/misfits-cascades"
-url: "https://doi.org/[ZENODO-DOI-TO-BE-INSERTED]"
+repository-code: "https://github.com/ealmirall/misfits-cascades"
 keywords:
   - agent-based model
   - complex contagion
@@ -24,7 +24,6 @@ authors:
   - family-names: Almirall
     given-names: Esteve
     affiliation: "Esade, Universitat Ramon Llull"
-    orcid: "https://orcid.org/[ORCID-TO-BE-INSERTED]"
   - family-names: Willmott
     given-names: Steve
     affiliation: "TimeWarp Labs"
@@ -43,3 +42,4 @@ preferred-citation:
       given-names: Steve
     - family-names: Cortés
       given-names: Ulises
+```
