@@ -1,13 +1,12 @@
-```yaml
 cff-version: 1.2.0
-message: "If you use this model or its results, please cite this software."
+message: "If you use this model or its results, please cite both the software and the article."
 title: "Misfits-Cascades: an agent-based model of performance-conditioned digital adoption among firms"
 abstract: >-
   Replication package for the agent-based model in "When a Few Misfits Trigger
   Digital Adoption Cascades: Network Reach, Threshold Heterogeneity, and
   Performance-Conditioned Complex Contagion in an Agent-Based Model of Firms."
   Implemented in Julia using Agents.jl and Graphs.jl.
-type: software
+type: software-code
 version: "1.0.0"
 date-released: "2026-06-05"
 license: "MIT"
@@ -30,4 +29,15 @@ authors:
   - family-names: "Cortés"
     given-names: "Ulises"
     affiliation: "Universitat Politècnica de Catalunya (UPC)"
-```
+preferred-citation:
+  type: article
+  title: "When a Few Misfits Trigger Digital Adoption Cascades: Network Reach, Threshold Heterogeneity, and Performance-Conditioned Complex Contagion in an Agent-Based Model of Firms"
+  year: 2026
+  journal: "Journal of Artificial Societies and Social Simulation"
+  authors:
+    - family-names: "Almirall"
+      given-names: "Esteve"
+    - family-names: "Willmott"
+      given-names: "Steve"
+    - family-names: "Cortés"
+      given-names: "Ulises"
