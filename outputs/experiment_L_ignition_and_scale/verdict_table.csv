@@ -1,0 +1,5 @@
+detail,criterion,passed
+success rows with CI>0=2; max null cascade=0.0,C1 mechanism,true
+minimum median successful exemplars across mechanism cells=9.0,C2 reinforcement,true
+max >=2 lower CI=0.9398260695220669; max >=3 lower CI=0.9398260695220669,C3 adequate ignition,true
+peak k=10 p=1.0; k=150 p=0.0; k=200 p=0.0,C4 bounded scale,true

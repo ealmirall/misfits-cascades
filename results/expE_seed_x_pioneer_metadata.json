@@ -1,0 +1,9 @@
+{
+  "experiment": "expE_seed_x_pioneer",
+  "master_seed": 20260603,
+  "generated_at": "2026-06-04T17:07:57.370",
+  "julia_version": "1.10.4",
+  "package_versions": {"Agents":"6.2.10","Graphs":"1.13.1","Distributions":"0.25.125","StatsBase":"0.34.11","DataFrames":"1.8.2","CSV":"0.10.16","CairoMakie":"0.13.10","ProgressMeter":"1.11.0"},
+  "settings": {"N":1000,"T":100,"n_coarse":50,"n_refine":250,"n_focal":1000,"stall_window":20,"seed_fraction":0.003,"k":4,"theta_mean":0.7,"path_samples":100,"cascade_transition_window":45,"cascade_slope_min":0.02,"cascade_final_cutoff":0.5,"hazard_match_reps":1},
+  "cells": [{"family":"small_world","beta":0.4,"k":4,"N":1000,"threshold_treatment":"mixture","threshold_params":{"theta_mean":0.7,"pi":0.05,"theta_low":0.05},"seed_strategy":"random","seed_count":6,"seed_fraction":0.006,"pioneer_strategy":"random","pioneer_count":50,"pioneer_fraction":0.05,"vary_network":false,"network_seed":2701,"focal":true},{"family":"small_world","beta":0.4,"k":4,"N":1000,"threshold_treatment":"mixture","threshold_params":{"theta_mean":0.7,"pi":0.05,"theta_low":0.05},"seed_strategy":"random","seed_count":6,"seed_fraction":0.006,"pioneer_strategy":"hub_bridge","pioneer_count":50,"pioneer_fraction":0.05,"vary_network":false,"network_seed":2701,"focal":true},{"family":"small_world","beta":0.4,"k":4,"N":1000,"threshold_treatment":"mixture","threshold_params":{"theta_mean":0.7,"pi":0.05,"theta_low":0.05},"seed_strategy":"hub_bridge","seed_count":6,"seed_fraction":0.006,"pioneer_strategy":"random","pioneer_count":50,"pioneer_fraction":0.05,"vary_network":false,"network_seed":2701,"focal":true},{"family":"small_world","beta":0.4,"k":4,"N":1000,"threshold_treatment":"mixture","threshold_params":{"theta_mean":0.7,"pi":0.05,"theta_low":0.05},"seed_strategy":"hub_bridge","seed_count":6,"seed_fraction":0.006,"pioneer_strategy":"hub_bridge","pioneer_count":50,"pioneer_fraction":0.05,"vary_network":false,"network_seed":2701,"focal":true}]
+}

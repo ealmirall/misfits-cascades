@@ -1,0 +1,4 @@
+frequency_cascade_prob,k,success_cascade_prob,hazard_cascade_prob,criterion1_cascades_vs_nulls,min2_cascade_prob,criterion2_median_successful_exemplars_ge2,median_successful_exemplars,min3_cascade_prob,criterion3_min2_survives,degree_verdict
+0.0,20,0.975,0.0,true,0.0,true,9.0,0.0,false,not supported
+0.0,50,0.95,0.0,true,0.0,true,25.0,0.0,false,not supported
+0.0,100,0.0,0.0,false,0.0,true,38.0,0.0,false,not supported

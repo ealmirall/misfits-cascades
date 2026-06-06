@@ -1,0 +1,22 @@
+include(joinpath(@__DIR__, "run_expA_nullmodels.jl"))
+include(joinpath(@__DIR__, "run_expB_topology.jl"))
+include(joinpath(@__DIR__, "run_expC_culture_vs_misfits.jl"))
+include(joinpath(@__DIR__, "run_expD_seedplacement.jl"))
+include(joinpath(@__DIR__, "run_expE_seed_x_pioneer.jl"))
+include(joinpath(@__DIR__, "run_expC_equal_effort.jl"))
+include(joinpath(@__DIR__, "run_robustness.jl"))
+
+args = parse_common_args(ARGS)
+seed = args.seed
+
+run_expA(; quick=true, seed=seed + 1)
+run_expB(; quick=true, seed=seed + 2)
+run_expC(; quick=true, seed=seed + 3)
+run_expD(; quick=true, seed=seed + 4)
+run_expE(; quick=true, seed=seed + 5)
+run_equal_effort(; quick=true, seed=seed + 6)
+run_robustness(; quick=true, seed=seed + 7)
+include(joinpath(@__DIR__, "analysis_topology_regression.jl"))
+include(joinpath(@__DIR__, "stylized_facts.jl"))
+run_stylized_facts(; quick=true, seed=seed + 8)
+include(joinpath(@__DIR__, "make_figures.jl"))

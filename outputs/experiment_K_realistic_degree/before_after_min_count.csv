@@ -1,0 +1,13 @@
+replacement_digital_rule,n_runs,k,variant,cascade_prob_ci_low,source,cascade_prob,cascade_prob_ci_high
+bernoulli_seed_probability,250,4,success_original,0.9653186109241421,Experiment G k=4 Exp A focal,0.988,0.9959107541602255
+bernoulli_seed_probability,250,4,success_min2,0.0,Experiment G k=4 Exp A focal,0.0,0.015133847249623387
+bernoulli_seed_probability,250,4,success_min3,0.0,Experiment G k=4 Exp A focal,0.0,0.015133847249623387
+traditional_only,80,20,success_min2,0.0,Experiment K realistic degree,0.0,0.0458197362645751
+traditional_only,80,20,success_min3,0.0,Experiment K realistic degree,0.0,0.0458197362645751
+traditional_only,80,20,success_original,0.9325356757603457,Experiment K realistic degree,0.9875,0.9977900813816939
+traditional_only,80,50,success_min2,0.0,Experiment K realistic degree,0.0,0.0458197362645751
+traditional_only,80,50,success_min3,0.0,Experiment K realistic degree,0.0,0.0458197362645751
+traditional_only,80,50,success_original,0.878375474489178,Experiment K realistic degree,0.95,0.9803867628727044
+traditional_only,40,100,success_min2,0.0,Experiment K realistic degree,0.0,0.08762453925039232
+traditional_only,40,100,success_min3,0.0,Experiment K realistic degree,0.0,0.08762453925039232
+traditional_only,40,100,success_original,0.0,Experiment K realistic degree,0.0,0.08762453925039232

@@ -1,0 +1,34 @@
+section,section_label,k,beta,variant,variant_label,threshold_treatment,treatment_label,theta_mean,pi,seed_strategy,pioneer_strategy,successful_exemplar_median,successful_exemplar_p05,successful_exemplar_p95,better_count_median,better_count_p05,better_count_p95,exposure_share_median,threshold_median,n_adoptions
+K_A_mechanism,K-A mechanism,20,0.7,success_original,performance-conditioned,mixture,mixture pi=5%,0.95,0.05,random,random,9.0,1.0,19.0,9.0,1.0,19.0,1.0,0.9973684210526317,79351
+K_A_mechanism,K-A mechanism,50,0.7,success_original,performance-conditioned,mixture,mixture pi=5%,0.95,0.05,random,random,25.0,2.0,45.0,26.0,3.0,46.0,1.0,0.9973684210526317,86377
+K_A_mechanism,K-A mechanism,100,0.7,success_original,performance-conditioned,mixture,mixture pi=5%,0.9525,0.05,random,random,38.0,3.0,66.0,40.0,7.0,70.0,1.0,1.0,35944
+K_C_thresholds,K-C thresholds,20,0.7,equal_higher_variance,equal effort: variance,higher_variance,equal effort: variance,0.95,,random,none,8.0,1.0,18.0,8.0,1.0,19.0,1.0,0.9472014537468424,72297
+K_C_thresholds,K-C thresholds,20,0.7,equal_lower_mean,equal effort: lower mean,lower_mean,equal effort: lower mean,0.95,,random,none,9.0,1.0,18.0,9.0,1.0,19.0,1.0,0.8999033698238046,73311
+K_C_thresholds,K-C thresholds,20,0.7,equal_mixture,equal effort: mixture,mixture,equal effort: mixture,0.95,0.027777777777777783,random,random,8.0,1.0,18.0,9.0,1.0,18.0,1.0,0.975925925925926,76155
+K_C_thresholds,K-C thresholds,20,0.7,higher_variance,higher variance,higher_variance,higher variance,0.95,,random,none,9.0,1.0,18.0,9.0,1.0,19.0,1.0,0.9405681219207316,75170
+K_C_thresholds,K-C thresholds,20,0.7,homogeneous,homogeneous,homogeneous,homogeneous,0.95,,random,none,6.0,1.0,17.0,6.0,1.0,17.0,1.0,0.9499097534496608,56066
+K_C_thresholds,K-C thresholds,20,0.7,lower_mean,lower mean,lower_mean,lower mean,0.95,,random,none,9.0,1.0,18.0,9.0,1.0,19.0,1.0,0.8999451436090847,75632
+K_C_thresholds,K-C thresholds,20,0.7,mixture_pi_1,mixture pi=1%,mixture,mixture pi=1%,0.95,0.01,random,random,8.0,1.0,17.0,8.0,1.0,18.0,1.0,0.9590909090909091,68337
+K_C_thresholds,K-C thresholds,20,0.7,mixture_pi_10,mixture pi=10%,mixture,mixture pi=10%,0.95,0.1,random,random,9.0,1.0,19.0,10.0,1.0,19.0,1.0,1.0,78425
+K_C_thresholds,K-C thresholds,20,0.7,mixture_pi_5,mixture pi=5%,mixture,mixture pi=5%,0.95,0.05,random,random,9.0,1.0,18.0,9.0,1.0,19.0,1.0,0.9973684210526317,78423
+K_C_thresholds,K-C thresholds,50,0.7,equal_higher_variance,equal effort: variance,higher_variance,equal effort: variance,0.95,,random,none,23.0,2.0,44.0,23.0,2.0,46.0,1.0,0.9462015276968658,77731
+K_C_thresholds,K-C thresholds,50,0.7,equal_lower_mean,equal effort: lower mean,lower_mean,equal effort: lower mean,0.95,,random,none,22.0,2.0,44.0,23.0,2.0,46.0,0.9655172413793104,0.8998973946928674,77279
+K_C_thresholds,K-C thresholds,50,0.7,equal_mixture,equal effort: mixture,mixture,equal effort: mixture,0.95,0.027777777777777783,random,random,24.0,2.0,44.0,25.0,3.0,46.0,1.0,0.975925925925926,83528
+K_C_thresholds,K-C thresholds,50,0.7,higher_variance,higher variance,higher_variance,higher variance,0.95,,random,none,23.0,2.0,44.0,24.0,2.0,47.0,1.0,0.9370857383083551,79460
+K_C_thresholds,K-C thresholds,50,0.7,homogeneous,homogeneous,homogeneous,homogeneous,0.95,,random,none,22.0,2.0,44.0,22.0,2.0,45.0,1.0,0.9498169379615476,75397
+K_C_thresholds,K-C thresholds,50,0.7,lower_mean,lower mean,lower_mean,lower mean,0.95,,random,none,22.0,2.0,44.0,23.0,2.0,46.0,0.9655172413793104,0.8999055662866614,78957
+K_C_thresholds,K-C thresholds,50,0.7,mixture_pi_1,mixture pi=1%,mixture,mixture pi=1%,0.95,0.01,random,random,22.0,2.0,44.0,22.0,2.0,45.0,1.0,0.9590909090909091,77345
+K_C_thresholds,K-C thresholds,50,0.7,mixture_pi_10,mixture pi=10%,mixture,mixture pi=10%,0.95,0.1,random,random,25.0,2.0,45.0,27.0,5.0,47.0,1.0,1.0,89132
+K_C_thresholds,K-C thresholds,50,0.7,mixture_pi_5,mixture pi=5%,mixture,mixture pi=5%,0.95,0.05,random,random,25.0,2.0,45.0,26.0,3.0,46.0,1.0,0.9973684210526317,90036
+K_C_thresholds,K-C thresholds,100,0.7,equal_higher_variance,equal effort: variance,higher_variance,equal effort: variance,0.9525,,random,none,46.0,4.0,86.0,48.0,4.0,91.0,0.9875,0.9485969188159017,41960
+K_C_thresholds,K-C thresholds,100,0.7,equal_lower_mean,equal effort: lower mean,lower_mean,equal effort: lower mean,0.9525,,random,none,44.0,4.0,86.0,47.0,4.0,91.0,0.9583333333333334,0.9024617913403424,38838
+K_C_thresholds,K-C thresholds,100,0.7,equal_mixture,equal effort: mixture,mixture,equal effort: mixture,0.9525,0.02770083102493075,random,random,47.0,4.0,87.0,48.0,7.0,89.0,1.0,0.9784979423868314,44990
+K_C_thresholds,K-C thresholds,100,0.7,higher_variance,higher variance,higher_variance,higher variance,0.9525,,random,none,48.0,4.0,86.0,52.0,5.0,94.0,0.984375,0.9377178275121659,43245
+K_C_thresholds,K-C thresholds,100,0.7,homogeneous,homogeneous,homogeneous,homogeneous,0.9525,,random,none,44.0,4.0,86.0,45.0,4.0,88.0,0.9866666666666667,0.9523849776922468,40211
+K_C_thresholds,K-C thresholds,100,0.7,lower_mean,lower mean,lower_mean,lower mean,0.9525,,random,none,44.0,4.0,86.0,46.0,4.0,91.0,0.9583333333333334,0.9024160139459773,39817
+K_C_thresholds,K-C thresholds,100,0.7,mixture_pi_1,mixture pi=1%,mixture,mixture pi=1%,0.9525,0.01,random,random,46.0,4.0,86.0,47.0,5.0,88.0,1.0,0.9616161616161617,40579
+K_C_thresholds,K-C thresholds,100,0.7,mixture_pi_10,mixture pi=10%,mixture,mixture pi=10%,0.9525,0.1,random,random,41.0,3.0,70.0,45.0,11.0,80.0,1.0,1.0,38810
+K_C_thresholds,K-C thresholds,100,0.7,mixture_pi_5,mixture pi=5%,mixture,mixture pi=5%,0.9525,0.05,random,random,38.0,3.0,67.0,40.0,7.0,71.0,1.0,1.0,36070
+K_G_rule_robustness,K-G rule robustness,20,0.7,success_original,fractional success,mixture,mixture pi=5%,0.95,0.05,random,random,9.0,1.0,19.0,9.0,1.0,19.0,1.0,0.9973684210526317,81119
+K_G_rule_robustness,K-G rule robustness,50,0.7,success_original,fractional success,mixture,mixture pi=5%,0.95,0.05,random,random,25.0,2.0,45.0,26.0,3.0,46.0,1.0,0.9973684210526317,86794
+K_G_rule_robustness,K-G rule robustness,100,0.7,success_original,fractional success,mixture,mixture pi=5%,0.9525,0.05,random,random,38.0,3.0,67.0,41.0,7.0,70.0,1.0,1.0,36295

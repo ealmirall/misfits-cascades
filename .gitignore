@@ -1,0 +1,10 @@
+# Large, regenerable outputs — excluded from version control.
+# These are produced by the scripts and can be regenerated; archive them
+# separately as a Zenodo data record if full raw output is required.
+*_curves.csv
+**/exposure_at_adoption.csv
+
+# Julia / system
+/.julia/
+*.cov
+.DS_Store

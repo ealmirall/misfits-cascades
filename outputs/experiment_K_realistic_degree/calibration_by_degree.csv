@@ -1,0 +1,4 @@
+seed_fraction,homogeneous_cascade_prob,homogeneous_ci_high,selection_note,k,theta_mean,mixture_pi05_cascade_prob,homogeneous_ci_low,target_hit
+0.001,0.15,0.36042329588695743,nearest homogeneous baseline to 0.3,20,0.95,0.95,0.05236779195949584,false
+0.001,0.75,0.888139947210597,nearest homogeneous baseline to 0.3,50,0.95,1.0,0.5312949900419365,false
+0.001,0.85,0.9476322080405041,nearest homogeneous baseline to 0.3,100,0.9525,0.0,0.6395767041130426,false

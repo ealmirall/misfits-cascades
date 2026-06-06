@@ -1,0 +1,9 @@
+seed_fraction,homogeneous_cascade_prob,homogeneous_ci_high,max_mean_matched_theta_for_pi05,selection_note,k,theta_mean,mixture_pi05_mean_matched,homogeneous_ci_low,target_hit
+0.003,0.3333333333333333,0.609382412602386,0.9524999999999999,homogeneous baseline in 0.25-0.40 target band; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,10,1.0,false,0.13811783989736134,true
+0.002,0.3333333333333333,0.609382412602386,0.9524999999999999,homogeneous baseline in 0.25-0.40 target band; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,15,1.0,false,0.13811783989736134,true
+0.001,0.3333333333333333,0.609382412602386,0.9524999999999999,homogeneous baseline in 0.25-0.40 target band; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,20,0.96,false,0.13811783989736134,true
+0.001,0.3333333333333333,0.609382412602386,0.9524999999999999,homogeneous baseline in 0.25-0.40 target band; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,30,0.96,false,0.13811783989736134,true
+0.001,0.4166666666666667,0.6804926643446272,0.9524999999999999,target band not hit; nearest grid point to 0.325; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,50,1.0,false,0.19325746190524654,false
+0.003,0.08333333333333333,0.35388592179859524,0.9524999999999999,target band not hit; nearest grid point to 0.325; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,100,0.98,false,0.014864709450773478,false
+0.002,0.16666666666666666,0.44803635738467273,0.9524999999999999,target band not hit; nearest grid point to 0.325; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,150,0.97,false,0.04696414761482223,false
+0.001,0.0,0.2425007574992425,0.9524999999999999,target band not hit; nearest grid point to 0.325; pi=5% mixture cannot be exactly mean-matched above theta=0.9525,200,1.0,false,0.0,false

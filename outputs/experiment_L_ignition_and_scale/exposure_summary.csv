@@ -1,0 +1,21 @@
+section,section_label,k,beta,variant,variant_label,threshold_treatment,treatment_label,theta_mean,pi,seed_strategy,pioneer_strategy,successful_exemplar_median,successful_exemplar_p05,successful_exemplar_p95,better_count_median,better_count_p05,better_count_p95,exposure_share_median,threshold_median,n_adoptions
+L_mechanism,L mechanism,20,0.7,success_original,performance-conditioned,mixture,mixture pi=5%,0.96,0.05,clustered,random,9.0,1.0,19.0,10.0,1.0,19.0,1.0,1.0,59664
+L_mechanism,L mechanism,50,0.7,success_original,performance-conditioned,mixture,mixture pi=5%,1.0,0.05,clustered,random,25.0,2.0,45.0,26.0,4.0,46.0,1.0,1.0,66657
+L_thresholds,L thresholds,20,0.7,equal_higher_variance,equal effort: variance,higher_variance,equal effort: variance,0.96,,clustered,none,9.0,1.0,19.0,9.0,1.0,19.0,1.0,0.9588375656815618,59824
+L_thresholds,L thresholds,20,0.7,equal_lower_mean,equal effort: lower mean,lower_mean,equal effort: lower mean,0.96,,clustered,none,9.0,1.0,19.0,10.0,1.0,19.0,1.0,0.9098757230935387,59624
+L_thresholds,L thresholds,20,0.7,equal_mixture,equal effort: mixture,mixture,equal effort: mixture,0.96,0.027472527472527476,clustered,random,9.0,1.0,19.0,10.0,1.0,19.0,1.0,0.9852517985611511,61169
+L_thresholds,L thresholds,20,0.7,higher_variance,higher variance,higher_variance,higher variance,0.96,,clustered,none,9.0,1.0,19.0,9.0,1.0,20.0,1.0,0.951744384769786,58399
+L_thresholds,L thresholds,20,0.7,homogeneous,homogeneous,homogeneous,homogeneous,0.96,,clustered,none,9.0,1.0,19.0,9.0,1.0,19.0,1.0,0.9599984623251165,61536
+L_thresholds,L thresholds,20,0.7,lower_mean,lower mean,lower_mean,lower mean,0.96,,clustered,none,9.0,1.0,19.0,10.0,1.0,19.0,1.0,0.9100124190559233,59569
+L_thresholds,L thresholds,20,0.7,mixture_pi_1,mixture pi=1%,mixture,mixture pi=1%,0.96,0.01,clustered,random,9.0,1.0,18.0,9.0,1.0,18.0,1.0,0.9691919191919193,58356
+L_thresholds,L thresholds,20,0.7,mixture_pi_10,mixture pi=10%,mixture,mixture pi=10%,0.96,0.1,clustered,random,9.0,1.0,19.0,10.0,1.0,19.0,1.0,1.0,59278
+L_thresholds,L thresholds,20,0.7,mixture_pi_5,mixture pi=5%,mixture,mixture pi=5%,0.96,0.05,clustered,random,9.0,1.0,19.0,10.0,1.0,19.0,1.0,1.0,59854
+L_thresholds,L thresholds,50,0.7,equal_higher_variance,equal effort: variance,higher_variance,equal effort: variance,1.0,,clustered,none,24.0,2.0,45.0,24.0,2.0,46.0,1.0,0.9983694474722448,63252
+L_thresholds,L thresholds,50,0.7,equal_lower_mean,equal effort: lower mean,lower_mean,equal effort: lower mean,1.0,,clustered,none,23.0,2.0,44.0,23.0,2.0,46.0,1.0,0.9499105674740942,60283
+L_thresholds,L thresholds,50,0.7,equal_mixture,equal effort: mixture,mixture,equal effort: mixture,1.0,0.026315789473684213,clustered,random,25.0,2.0,45.0,26.0,3.0,46.0,1.0,1.0,66960
+L_thresholds,L thresholds,50,0.7,higher_variance,higher variance,higher_variance,higher variance,1.0,,clustered,none,23.0,2.0,44.0,25.0,2.0,47.0,1.0,0.9907706510992891,61358
+L_thresholds,L thresholds,50,0.7,homogeneous,homogeneous,homogeneous,homogeneous,1.0,,clustered,none,25.0,2.0,46.0,25.0,2.0,46.0,1.0,1.0,66677
+L_thresholds,L thresholds,50,0.7,lower_mean,lower mean,lower_mean,lower mean,1.0,,clustered,none,23.0,2.0,44.0,23.0,2.0,45.0,1.0,0.9498606281810624,60060
+L_thresholds,L thresholds,50,0.7,mixture_pi_1,mixture pi=1%,mixture,mixture pi=1%,1.0,0.01,clustered,random,25.0,2.0,45.0,25.0,3.0,46.0,1.0,1.0,67419
+L_thresholds,L thresholds,50,0.7,mixture_pi_10,mixture pi=10%,mixture,mixture pi=10%,1.0,0.1,clustered,random,25.0,2.0,45.0,27.0,5.0,47.0,1.0,1.0,66465
+L_thresholds,L thresholds,50,0.7,mixture_pi_5,mixture pi=5%,mixture,mixture pi=5%,1.0,0.05,clustered,random,25.0,2.0,45.0,26.0,4.0,46.0,1.0,1.0,67434
