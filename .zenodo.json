@@ -1,0 +1,30 @@
+{
+  "title": "Misfits-Cascades: an agent-based model of performance-conditioned digital adoption among firms",
+  "upload_type": "software",
+  "description": "Replication package for the agent-based model in \"When a Few Misfits Trigger Digital Adoption Cascades: Network Reach, Threshold Heterogeneity, and Performance-Conditioned Complex Contagion in an Agent-Based Model of Firms.\" Implemented in Julia using Agents.jl and Graphs.jl.",
+  "creators": [
+    {
+      "name": "Almirall, Esteve",
+      "affiliation": "Esade, Universitat Ramon Llull"
+    },
+    {
+      "name": "Willmott, Steve",
+      "affiliation": "TimeWarp Labs"
+    },
+    {
+      "name": "Cortés, Ulises",
+      "affiliation": "Universitat Politècnica de Catalunya (UPC)"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "agent-based model",
+    "complex contagion",
+    "technology adoption",
+    "performance-conditioned imitation",
+    "network reach",
+    "bounded cognition",
+    "JASSS"
+  ]
+}
